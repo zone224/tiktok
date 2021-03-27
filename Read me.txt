@@ -1,0 +1,14 @@
+this is a simple tool to use, you need python 3.7.0 installed or it will close.
+
+	Instructions:
+
+	1: Download & Install Python 3.7.0	
+	2: Run Install Packages.txt
+	3: Run Tiktok.pyc
+____________________________________________________________
+
+a few common issues with python selenium is the use of a wrong chromedriver version so make sure you have the right one installed
+you can find your version here: https://chromedriver.chromium.org/downloads
+
+if you get any other errors, run the debugger and send a screenshot of
+the error in our discord server and wait for a response.
